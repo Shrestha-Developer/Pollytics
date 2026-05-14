@@ -55,8 +55,7 @@ Poll-Results-Visualizer/
     ├── pie_chart.png
     ├── region_chart.png
     ├── age_group_chart.png
-    ├── satisfaction_chart.png
-    └── wordcloud.png
+    └── satisfaction_chart.png
 ```
 
 ## ⚙️ Technologies Used
