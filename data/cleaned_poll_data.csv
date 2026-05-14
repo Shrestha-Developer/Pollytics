@@ -1,0 +1,101 @@
+Respondent_ID,Region,Age_Group,Gender,Selected_Option,Satisfaction,Feedback
+1,East,46+,Male,Product A,5,Average experience
+2,East,26-35,Male,Product A,3,Average experience
+3,West,46+,Female,Product B,5,Good product and nice experience
+4,West,46+,Female,Product A,4,Average experience
+5,North,46+,Female,Product B,4,Very useful and easy to use
+6,North,36-45,Male,Product A,4,Excellent and highly recommended
+7,West,36-45,Female,Product A,3,Excellent and highly recommended
+8,East,46+,Female,Product A,5,Needs improvement
+9,East,18-25,Male,Product A,4,Very useful and easy to use
+10,West,26-35,Female,Product A,2,Average experience
+11,South,46+,Female,Product A,4,Average experience
+12,West,36-45,Male,Product C,4,Good product and nice experience
+13,West,46+,Female,Product A,2,Excellent and highly recommended
+14,South,18-25,Male,Product C,4,Good product and nice experience
+15,South,26-35,Female,Product B,4,Very useful and easy to use
+16,South,46+,Male,Product A,2,Average experience
+17,West,26-35,Male,Product A,4,Average experience
+18,North,18-25,Male,Product A,1,Very useful and easy to use
+19,West,18-25,Female,Product A,3,Needs improvement
+20,North,46+,Male,Product B,3,Average experience
+21,South,36-45,Female,Product A,1,Excellent and highly recommended
+22,South,18-25,Female,Product A,5,Needs improvement
+23,West,46+,Female,Product C,1,Needs improvement
+24,North,36-45,Female,Product C,5,Good product and nice experience
+25,East,36-45,Female,Product A,1,Good product and nice experience
+26,South,46+,Male,Product A,1,Excellent and highly recommended
+27,North,46+,Female,Product C,5,Needs improvement
+28,North,46+,Male,Product A,3,Needs improvement
+29,South,46+,Female,Product B,1,Average experience
+30,South,46+,Female,Product A,4,Very satisfied with the product
+31,South,36-45,Female,Product C,4,Very useful and easy to use
+32,East,26-35,Male,Product A,3,Very satisfied with the product
+33,North,46+,Male,Product C,3,Very useful and easy to use
+34,South,18-25,Male,Product A,4,Needs improvement
+35,South,46+,Female,Product B,4,Very useful and easy to use
+36,South,18-25,Female,Product C,2,Needs improvement
+37,North,18-25,Male,Product C,3,Very useful and easy to use
+38,South,26-35,Female,Product A,5,Very useful and easy to use
+39,North,36-45,Female,Product A,4,Good product and nice experience
+40,West,26-35,Female,Product B,3,Needs improvement
+41,North,36-45,Female,Product A,4,Good product and nice experience
+42,South,26-35,Male,Product C,1,Very useful and easy to use
+43,West,36-45,Female,Product B,3,Excellent and highly recommended
+44,West,36-45,Female,Product A,3,Needs improvement
+45,West,46+,Male,Product A,1,Good product and nice experience
+46,West,18-25,Male,Product A,1,Good product and nice experience
+47,East,36-45,Female,Product B,4,Good product and nice experience
+48,West,18-25,Female,Product B,2,Very useful and easy to use
+49,West,26-35,Female,Product B,3,Very useful and easy to use
+50,North,36-45,Male,Product B,3,Excellent and highly recommended
+51,West,26-35,Female,Product C,4,Needs improvement
+52,North,46+,Female,Product C,4,Very satisfied with the product
+53,East,46+,Female,Product C,1,Average experience
+54,South,46+,Female,Product B,3,Average experience
+55,North,46+,Male,Product A,5,Excellent and highly recommended
+56,West,46+,Female,Product C,1,Very useful and easy to use
+57,West,46+,Male,Product A,5,Needs improvement
+58,South,46+,Male,Product A,5,Very satisfied with the product
+59,North,46+,Male,Product A,5,Excellent and highly recommended
+60,North,46+,Male,Product B,1,Very useful and easy to use
+61,West,46+,Female,Product C,5,Very satisfied with the product
+62,East,46+,Male,Product C,5,Very useful and easy to use
+63,South,18-25,Male,Product C,1,Excellent and highly recommended
+64,East,18-25,Male,Product A,1,Needs improvement
+65,West,26-35,Male,Product A,2,Needs improvement
+66,West,26-35,Female,Product A,2,Needs improvement
+67,South,26-35,Female,Product B,1,Very useful and easy to use
+68,East,26-35,Female,Product B,2,Good product and nice experience
+69,East,26-35,Male,Product B,4,Good product and nice experience
+70,East,18-25,Female,Product B,1,Very satisfied with the product
+71,West,26-35,Female,Product C,4,Good product and nice experience
+72,South,46+,Male,Product B,3,Very useful and easy to use
+73,South,36-45,Female,Product A,2,Good product and nice experience
+74,South,18-25,Female,Product A,3,Excellent and highly recommended
+75,North,18-25,Female,Product B,4,Excellent and highly recommended
+76,North,36-45,Female,Product C,4,Very satisfied with the product
+77,East,36-45,Male,Product A,5,Good product and nice experience
+78,West,26-35,Female,Product A,3,Excellent and highly recommended
+79,South,36-45,Female,Product A,5,Very satisfied with the product
+80,East,36-45,Male,Product B,1,Good product and nice experience
+81,South,18-25,Male,Product A,1,Average experience
+82,North,18-25,Female,Product B,5,Very satisfied with the product
+83,North,36-45,Male,Product A,3,Average experience
+84,South,18-25,Male,Product A,5,Very useful and easy to use
+85,South,26-35,Female,Product B,4,Good product and nice experience
+86,South,46+,Male,Product A,1,Very satisfied with the product
+87,South,18-25,Male,Product A,5,Excellent and highly recommended
+88,South,46+,Male,Product A,3,Good product and nice experience
+89,West,18-25,Female,Product B,4,Good product and nice experience
+90,North,46+,Female,Product B,4,Excellent and highly recommended
+91,South,36-45,Female,Product A,5,Needs improvement
+92,East,18-25,Female,Product A,1,Good product and nice experience
+93,East,46+,Male,Product A,2,Average experience
+94,East,26-35,Male,Product A,2,Average experience
+95,South,26-35,Female,Product A,3,Very useful and easy to use
+96,East,46+,Female,Product B,5,Needs improvement
+97,North,46+,Female,Product A,5,Very useful and easy to use
+98,West,26-35,Male,Product B,3,Very useful and easy to use
+99,East,46+,Female,Product A,5,Excellent and highly recommended
+100,North,36-45,Male,Product B,3,Very useful and easy to use
