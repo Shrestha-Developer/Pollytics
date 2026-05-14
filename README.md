@@ -36,10 +36,6 @@ An interactive data analysis and visualization project built using Python and St
 
 ![Satisfaction Chart](outputs/satisfaction_chart.png)
 
-### Common Words in Feedback
-
-![Feedback Word Cloud](outputs/wordcloud.png)
-
 ## 📂 Project Structure
 
 ```
