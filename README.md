@@ -1,4 +1,4 @@
-# 📊 Poll Results Visualizer
+# 📊 POLLYTICS
 
 An interactive data analysis and visualization project built using Python and Streamlit to analyze survey and poll responses. The project processes respondent data, generates insights, and displays them in a modern dark-themed dashboard.
 
